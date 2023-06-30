@@ -1,0 +1,14 @@
+/* global prop */
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root{
+  --dark-color: #19283f;
+  --red-color:  #ff3150;
+  --yellow-color:#ffc400;
+  --section-color: #eff7fa;
+  --main-font: 'Roboto', sans-serif; 
+}
